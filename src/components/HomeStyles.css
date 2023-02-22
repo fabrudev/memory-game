@@ -1,0 +1,27 @@
+.home{
+    color: #F5E9CF;
+}
+.home__title{
+    font-size: 3rem;
+}
+.home__subtitle{
+    font-weight: 200;
+    font-size: .9rem;
+    margin-bottom: 50px;
+}
+.home__button{
+    padding: 20px;
+    background: #F5E9CF;
+    border: none;
+    color: #4D455D;
+    font-weight: 500;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all .2s;
+}
+.home__button:hover{
+    box-shadow: 0 0 10px 0px #F5E9CF;
+}
+.home__button:active{
+    transform: scale(.98);
+}

@@ -1,0 +1,23 @@
+/* ===== General ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background: #4D455D;
+}
+button {
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+}
+#app {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
