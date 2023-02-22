@@ -1,4 +1,5 @@
 .home{
+    width: 80%;
     color: #F5E9CF;
 }
 .home__title{
@@ -10,7 +11,7 @@
     margin-bottom: 50px;
 }
 .home__button{
-    padding: 20px;
+    padding: 10px 20px;
     background: #F5E9CF;
     border: none;
     color: #4D455D;
